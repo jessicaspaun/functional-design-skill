@@ -1,0 +1,4 @@
+interface:
+  display_name: "Functional Design"
+  short_description: "Apply functional programming to everyday code"
+  default_prompt: "Use $functional-design to review this code and apply the book’s concepts where they improve clarity and correctness."
